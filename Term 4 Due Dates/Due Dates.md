@@ -1,0 +1,11 @@
+- [x] #task ICTSAS527 Client Problems AT3 Observation 📅 2024-11-10
+- [ ] #task BSBXTW401 Lead Team AT2 Written 📅 2024-10-11
+- [ ] #task ICTPRG537 Security AT1 Written 📅 2024-10-18
+- [ ] #task ICTPRG535/556 Web Interfaces AT1 Written 📅 2024-10-18
+- [ ] #task BSBXTW401 Lead Team AT3 Portfolio of Evidence 📅 2024-10-18
+- [ ] #task ICTPRG553/4 API AT2 Attempt 2 📅 2024-10-18
+- [ ] #task ICTDBS507 Typical Tech Tools AT2 Attempt 2 📅 2024-10-18
+- [ ] #task BSBXCS402 Cyber Security AT2 Portfolio of Evidence  📅 2024-11-01
+- [ ] #task ICTPRG547 JAVA2 AT2 Portfolio of Evidence  📅 2024-11-08
+- [ ] #task ICTPRG537 Security AT2 Portfolio of Evidence  📅 2024-11-08
+- [ ] #task ICTPRG535/556 Web Interfaces AT2 Portfolio of Evidence  📅 2024-11-08

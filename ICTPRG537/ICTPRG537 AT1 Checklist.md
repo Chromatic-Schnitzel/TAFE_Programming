@@ -1,0 +1,6 @@
+- [ ] 1.       Provide a detailed description of the purpose of implementing security in this application, including the possible outcomes of not correctly securing this application.
+- [ ] 2.       As part of providing a security analysis for your client, you have been asked to provide a detailed description of industry standard hardware and networking configuration that could be used in the facility to assist in securing this application.
+- [ ] 3.       For each piece of hardware and configuration detailed in Question 2, describe how the use of these specific tools will assist in providing a more secure environment for executing the client’s application.
+- [ ] 4.       Provide at least 2 different Encryption algorithms that could be used to secure the medical images, include in your answer a description of why each would be a good choice for encryption.
+- [ ] 5.       Describe how a developer may utilise Object Oriented Programming concepts to assist in securing an application, and how these concepts may have been applied in developing an application similar to that described in the scenario.
+- [ ] 6.       Explain the process of encrypting data using a Caesar cypher, and how this compares to modern encryption algorithms, ensuring the answer includes a description of the underlying maths of these encryption algorithms.

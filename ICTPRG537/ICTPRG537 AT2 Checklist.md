@@ -1,0 +1,73 @@
+# Task 1 – Implement basic Authentication
+- [ ] Selected Application
+	- [ ] _Describe the application selected to implement basic authentication and authorisation, including the viability of applying security to this application._
+- [ ] Viability Review
+	- [ ] _Include any notes that have come from a discussion with your teacher regarding the viability of the selected application – is it viable, or do you need to select another application?_
+- [ ] Login Page Screenshot
+	- [ ] _Provide a screenshot of the developed login page/form/view._
+- [ ] Secure Resource
+	- [ ] _Describe the purpose and/or benefit of securing this resource for the selected application._
+- [ ] Authentication System
+	- [ ] _Provide a screenshot of the source code used to implement the chosen authentication strategy._
+- [ ] Testing Authentication
+	- [ ] _1._         _Provide a screenshot of accessing the protected resource with correct authentication_
+	- [ ] _2._         _Provide a screenshot of accessing the protected resource when un-authenticated_
+# Task 2 – Plan and Research Advanced Security
+- [ ] Selected Application
+	- [ ] _Describe the application selected to secure, including the viability of applying security to this application._
+- [ ] Manager Email
+	- [ ] _In an email to your manager, include the description of the selected application and provide details of how this application meets the requirements for an application that can have security applied._
+	- [ ] _Include in this email a request for all organisational documentation related to applying security to an application_
+- [ ] Target Deployment Platform
+	- [ ] _1._         _Describe the target environment for deployment (Azure, Aws, IIS, Nginx, Apache, Windows 10 OS, etc) including how you intend to configure the application to enhance the security of the application, including controlling or restricting application access to system resources._
+	- [ ] _2._         _Describe the tools that can be utilised to achieve the security configuration detailed in the previous point._
+- [ ] Security Strategy Report
+	- [ ] Outcomes
+		- [ ] _The required outcomes of adding Authentication and Authorisation to the application._
+	- [ ] Authentication Strategy
+		- [ ] _How Authentication will be implemented (the chosen form of providing and proving credentials)._
+	- [ ] Authorised Access
+		- [ ] _How Authorisation will be used to protect resources from access._
+	- [ ] Protected Resources
+		- [ ] _A list of resources that will be protected._
+	- [ ] Authorisation Strategy
+		- [ ] _How Authorisation will be implemented (Role based, claims based or Policy based)._
+	- [ ] Cryptographic Algorithms
+		- [ ] _The cryptographic algorithms required to perform any encryption and decryption of data within the application, including the algorithm name and the intended use._
+	- [ ] Input/Output Handling
+		- [ ] _Intended handling of application input and output sanitisation and prevention of code injection._
+	- [ ] Security Strategy Meeting
+		- [ ] _Organise a meeting with your assessor to present a summary of the proposed security strategy, record any feedback or changes required to gain approval._
+# Task 3 – Implement Security Strategy
+- [ ] Target Environment Configuration
+	- [ ] _1._         _Outcome description_
+	- [ ] _1._         _Configuration Screenshot_
+# Task 4 – Review and Test Security
+- [ ] Testing Report
+	- [ ] _Work with a fellow student to conduct testing on the implemented security features including the following, recording the details of each test and any discussions around the tests in a technical report._
+- [ ] Access to protected resources when Authenticated
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Access to protected resources when not Authenticated
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Access to protected resources when Authorised
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Access to protected resources when not Authorised
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Accessing contents of encrypted data
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Accessing contents of and ensuring validity of decrypted data
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] SQL Injection on at least 2 endpoints:
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Script Injection / Execution on at least one Form/Page/View
+	- [ ] _Outcome_
+	- [ ] _Screenshot_
+- [ ] Testing Report Summary
+	- [ ] _Provide a summary of the outcomes of implementing and testing the security strategy, including any issues identified in the process._
