@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "aK0tWP05YNtph6S-nWLD_",
+      "name": "API",
+      "value": "#6923af"
+    },
+    {
+      "id": "asHWLEOB0QRA95tmZF01o",
+      "name": "Lead Team",
+      "value": "#2211a2"
+    },
+    {
+      "id": "DRBtUjLwwTtI3XpTo3Yib",
+      "name": "Client Problems",
+      "value": "#9c1616"
+    },
+    {
+      "id": "tHvV9OqqmSDNjjwDsWZOT",
+      "name": "Techies",
+      "value": "#d93fbd"
+    },
+    {
+      "id": "5SZCH5ddq4Csuh1PU-3Pp",
+      "name": "Due Dates",
+      "value": "#b38b47"
+    },
+    {
+      "id": "02vsbTGOicSph0lqPS47d",
+      "name": "Security",
+      "value": "#9ce316"
+    },
+    {
+      "id": "ArA8yCu9aHnyrJJ4WzUwd",
+      "name": "Passed",
+      "value": "#00ff04"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Thursday API WEB Assignment",
+      "color": "aK0tWP05YNtph6S-nWLD_"
+    },
+    {
+      "path": "BSBXTW401",
+      "color": "asHWLEOB0QRA95tmZF01o"
+    },
+    {
+      "path": "Passed/ICTICT532",
+      "color": "DRBtUjLwwTtI3XpTo3Yib"
+    },
+    {
+      "path": "ICTDBS507",
+      "color": "tHvV9OqqmSDNjjwDsWZOT"
+    },
+    {
+      "path": "Term 4 Due Dates",
+      "color": "5SZCH5ddq4Csuh1PU-3Pp"
+    },
+    {
+      "path": "ICTPRG537",
+      "color": "02vsbTGOicSph0lqPS47d"
+    },
+    {
+      "path": "Passed",
+      "color": "ArA8yCu9aHnyrJJ4WzUwd"
+    }
+  ]
+}

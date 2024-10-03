@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "99e4449035d321e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6fd35e8ca46d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93105a345f192ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "505827fdb0803bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "639e7b2abf30fc3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58c04d48b803b6d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5ec6cdc1781a092",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18c1974d52811c16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "599265417e69d9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4aad73b940ca03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f2fb0d22b7a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0a667186be1e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ae816af5f679bb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b243ed4ef57696a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BSBXTW401/BSBXTW AT2 NOTES.md"
+              }
+            }
+          },
+          {
+            "id": "94987d8fc7911b1d",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0bbc620eefa5c87",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7e826fc5acb90e5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "univer:Univer": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "93105a345f192ad5",
+  "lastOpenFiles": [
+    "BSBXTW401/BSBXTW401 AT3 NOTES.md",
+    "BSBXTW401/BSBXTW AT2 NOTES.md",
+    "Term 4 Due Dates/Due Dates.md",
+    "ICTPRG537/ICTPRG537 AT2 Checklist.md",
+    "Thursday API WEB Assignment/API Features Checklist.md",
+    "ICTPRG537/ICTPRG537 AT1 Checklist.md",
+    "ICTDBS507/ICTDBS507 AT2.md",
+    "Passed",
+    "Passed/ICTICT532/ICTICT532 AT1 NOTES.md",
+    "ICTPRG537",
+    "2024-09-28.md",
+    "2024-10-21.md",
+    "2024-10-20.md",
+    "2024-10-19.md",
+    "2024-10-18.md",
+    "2024-10-17.md",
+    "2024-10-16.md",
+    "2024-10-15.md",
+    "2024-10-14.md",
+    "2024-10-13.md",
+    "2024-10-12.md",
+    "2024-10-11.md",
+    "2024-10-10.md",
+    "2024-10-09.md",
+    "2024-10-08.md",
+    "2024-10-07.md",
+    "2024-10-06.md",
+    "2024-10-05.md",
+    "Term 4 Due Dates",
+    "ICTDBS507",
+    "Due Dates.xlsx",
+    "Untitled.xlsx",
+    "Thursday API WEB Assignment",
+    "BSBXTW401",
+    "Passed/ICTICT532"
+  ]
+}
