@@ -1,6 +1,8 @@
-5-6 Slide PowerPoint Training slides
+~~5-6 Slide PowerPoint Training slides~~
 Finish AT3 Documentation
-Get Manish and Bryn to fill out their Feedback Survey
+~~Get Manish and Bryn to fill out their Feedback Survey~~
+Create Task Prioritisation activity
+Present Powerpoint
 
 
 

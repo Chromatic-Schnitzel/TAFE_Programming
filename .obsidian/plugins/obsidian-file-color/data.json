@@ -36,6 +36,16 @@
       "id": "ArA8yCu9aHnyrJJ4WzUwd",
       "name": "Passed",
       "value": "#00ff04"
+    },
+    {
+      "id": "6myzIJxV-I9pUD2NFVjIV",
+      "name": "Java2",
+      "value": "#fca103"
+    },
+    {
+      "id": "JKDq-L4bzEyNQbzj2rcYI",
+      "name": "Web Interfaces",
+      "value": "#06845e"
     }
   ],
   "fileColors": [
@@ -48,7 +58,7 @@
       "color": "asHWLEOB0QRA95tmZF01o"
     },
     {
-      "path": "Passed/ICTICT532",
+      "path": "ICTICT532",
       "color": "DRBtUjLwwTtI3XpTo3Yib"
     },
     {
@@ -66,6 +76,14 @@
     {
       "path": "Passed",
       "color": "ArA8yCu9aHnyrJJ4WzUwd"
+    },
+    {
+      "path": "ICTPRG547 JAVA2",
+      "color": "6myzIJxV-I9pUD2NFVjIV"
+    },
+    {
+      "path": "ICTPRG535+556 Web Interfaces Cluster",
+      "color": "JKDq-L4bzEyNQbzj2rcYI"
     }
   ]
 }

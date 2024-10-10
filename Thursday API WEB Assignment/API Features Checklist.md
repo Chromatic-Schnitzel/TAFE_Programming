@@ -86,19 +86,19 @@ Scenario Requirements/Endpoint Details:
 		- [x] "Some of your endpoints in the documentation are missing some of their response codes such as the 401 & 403 for Api Key related issues, 400 for any endpoint that receives an input and 500 for any server related errors. Please update these."
 	- [x] 3.12 Provided evidence of the documentation for each endpoint.
 		- [x] "Once you have updated your endpoint documentation, please redo your PDF of the docs."
-- [ ] Part 4, Task 1:
-	- [ ] 4.2 MongoDB has been configured to accept persistence of objects including objects of different data types.
-		- [ ] - Screenshots of the configuration file and options have been provided.
-			- [ ] "This is a good start; can I also get you to add images showing your persistence is working. Refer to the class lesson plans for how to do this."
-	- [ ] 4.3 In accordance with the scenario provided:
-		- [ ] - At least two (2) triggers have been proposed and the corresponding events and notifications have been identified.
-			- [ ] "Your 2nd trigger is not one specified by the scenario. Your log changes trigger should instead be a trigger that logs reading deletions. Please update this."
-		- [ ] - Email to the manager or relevant stakeholder seeking confirmation of the triggers before implementing them has been provided as evidence.
-			- [ ] "This will need to be updated to match your change of trigger."
-	- [ ] 4.4  The triggers have been implemented and tested. Screenshots of code and of testing are provided for each trigger.
-		- [ ] "Your images for the 2nd trigger will need to be updated once you change your trigger."
-	- [ ] 4.5   Configured Authentication and Authorisation as per business requirements. Screenshots of the configuration process are provided, demonstrating the results of using both correct credentials and incorrect credentials.
-		- [ ] "In the Successful authorization section. Can you please add 1 more image to the top of the section to show which login is being used for the create database test?"
+- [x] Part 4, Task 1:
+	- [x] 4.2 MongoDB has been configured to accept persistence of objects including objects of different data types.
+		- [x] - Screenshots of the configuration file and options have been provided.
+			- [x] "This is a good start; can I also get you to add images showing your persistence is working. Refer to the class lesson plans for how to do this."
+	- [x] 4.3 In accordance with the scenario provided:
+		- [x] - At least two (2) triggers have been proposed and the corresponding events and notifications have been identified.
+			- [x] "Your 2nd trigger is not one specified by the scenario. Your log changes trigger should instead be a trigger that logs reading deletions. Please update this."
+		- [x] - Email to the manager or relevant stakeholder seeking confirmation of the triggers before implementing them has been provided as evidence.
+			- [x] "This will need to be updated to match your change of trigger."
+	- [x] 4.4  The triggers have been implemented and tested. Screenshots of code and of testing are provided for each trigger.
+		- [x] "Your images for the 2nd trigger will need to be updated once you change your trigger."
+	- [x] 4.5   Configured Authentication and Authorisation as per business requirements. Screenshots of the configuration process are provided, demonstrating the results of using both correct credentials and incorrect credentials.
+		- [x] "In the Successful authorization section. Can you please add 1 more image to the top of the section to show which login is being used for the create database test?"
 - [ ] Part 5:
 	- [ ] 5.1
 		- [ ] "Please add some more details about what parts of the system/database you would check to see if they are the cause of the deletion."

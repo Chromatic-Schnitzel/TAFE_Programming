@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "file": "GIT/Commit Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "file": "GIT/Commit Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSBXTW401/BSBXTW AT2 NOTES.md",
+                "file": "GIT/Commit Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSBXTW401/BSBXTW AT2 NOTES.md"
+                "file": "GIT/Commit Instructions.md"
               }
             }
           },
@@ -179,15 +179,27 @@
   },
   "active": "93105a345f192ad5",
   "lastOpenFiles": [
-    "BSBXTW401/BSBXTW401 AT3 NOTES.md",
-    "BSBXTW401/BSBXTW AT2 NOTES.md",
+    "ICTPRG535+556 Web Interfaces Cluster/ICTPRG535+556 AT2 Notes.md",
+    "ICTPRG535+556 Web Interfaces Cluster/ICTPRG535+556 AT1 Notes.md",
+    "BSBXCS/Notes.md",
+    "GIT/Commit Instructions.md",
+    "GIT",
     "Term 4 Due Dates/Due Dates.md",
+    "ICTPRG535+556 Web Interfaces Cluster",
+    "ICTICT532/ICTICT532 AT1 NOTES.md",
+    "BSBXTW401/BSBXTW AT2 NOTES.md",
+    "BSBXCS",
+    "BSBXTW401/BSBXTW401 AT3 NOTES.md",
+    "ICTPRG547 JAVA2/ICTPRG547 AT2 Checklist.md",
+    "ICTDBS507/ICTDBS507 AT2 (Tech Tools).md",
+    "ICTPRG547 JAVA2",
+    "ICTPRG537/ICTPRG537 AT1 Checklist.md",
+    "ICTPRG537/Term 4 Week 2 Notes.md",
     "ICTPRG537/ICTPRG537 AT2 Checklist.md",
     "Thursday API WEB Assignment/API Features Checklist.md",
-    "ICTPRG537/ICTPRG537 AT1 Checklist.md",
-    "ICTDBS507/ICTDBS507 AT2.md",
+    "Thursday API WEB Assignment/Week 8 Notes.md",
+    "Thursday API WEB Assignment/Week 9 Notes.md",
     "Passed",
-    "Passed/ICTICT532/ICTICT532 AT1 NOTES.md",
     "ICTPRG537",
     "2024-09-28.md",
     "2024-10-21.md",
@@ -199,20 +211,9 @@
     "2024-10-15.md",
     "2024-10-14.md",
     "2024-10-13.md",
-    "2024-10-12.md",
-    "2024-10-11.md",
-    "2024-10-10.md",
-    "2024-10-09.md",
-    "2024-10-08.md",
-    "2024-10-07.md",
-    "2024-10-06.md",
-    "2024-10-05.md",
     "Term 4 Due Dates",
     "ICTDBS507",
     "Due Dates.xlsx",
-    "Untitled.xlsx",
-    "Thursday API WEB Assignment",
-    "BSBXTW401",
-    "Passed/ICTICT532"
+    "Untitled.xlsx"
   ]
 }
